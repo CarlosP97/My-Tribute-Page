@@ -1,0 +1,45 @@
+#main-titles{
+  color: white;
+  text-shadow: 2px 2px #000000;
+  font-family: 'Aldrich';
+}
+
+img {
+  width: 100%;
+}
+
+.videogame-image {
+  width: 13%;
+  background-color:white;
+}
+
+.videogame-title {
+  background-color: #e82f17;
+  color: white;
+}
+
+/* h5 {
+  margin-top: 10px;
+  margin-bottom: -45px;
+} */
+/* 
+img {
+  margin-top: -30px;
+}
+*/
+.main-body {
+  background-color: white;
+} 
+
+#shigeru-quote {
+  font-size: 20px;
+}
+
+h2 {
+  font-family: 'Changa';
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
